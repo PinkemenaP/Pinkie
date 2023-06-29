@@ -1,0 +1,6 @@
+body{background-color: lightpink;}
+h1{color: #FFF8DC; font-family: Georgia; font-size: 35pt;}
+p{color: #FFF8DC; font-family: Georgia; font-size: 17pt;}
+img{border-style: dotted; border-width: 3pt; border-color: #C71585;}
+a{color: #621D44; font-family: Georgia; font-size: 14pt; text-decoration: none;}
+a:hover{color: lightblue;}
