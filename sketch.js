@@ -10,7 +10,7 @@ function draw() {
   // //circle
   //make  the ellipse follow your mouse 
   stroke(245,80,90); // an RGB color for the circle's border
-  strokeWeight(5);
+  strokeWeight(3);
   fill(270,152,180); // an RGB color for the inside of the circle (the last number refers to transparency (min. 0, max. 255))
   ellipse(mouseX,mouseY,20,20);
   ellipse(mouseX+40,mouseY,20,20);
